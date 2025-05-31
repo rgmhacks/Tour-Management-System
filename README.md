@@ -19,7 +19,7 @@ A comprehensive web application built using the **MERN Stack** (MongoDB, Express
 
 - **Frontend**: React.js, HTML, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, Firebase
 - **Authentication**: JWT (JSON Web Tokens)
 - **Version Control**: Git & GitHub
 
@@ -54,10 +54,10 @@ npx nodemon
 
 ### Step 3:Setup Frontend
 ```bash
-cd client/src
+cd client
 npm install
 ```
-- Create a .env file in the backend folder
+- Create a .env file in the client/src folder
 ```env
 # I have used Firebase for storing images.
 VITE_FIREBASE_API_KEY =
@@ -71,3 +71,20 @@ npm run dev
 
 ## 📸 Screenshots
 - Homepage
+![image](https://github.com/user-attachments/assets/3403a8f7-80ae-4bed-a137-a00c5d4d2e34)
+
+https://github.com/user-attachments/assets/d4693433-829b-4fa4-993c-446dd19c26d1
+
+- Packages
+![image](https://github.com/user-attachments/assets/3b5b71d0-77b0-4279-9b54-8761412bab85)
+![image](https://github.com/user-attachments/assets/6fd296d8-6b3e-4f72-8920-f9f445c64dd5)
+
+- Profile Page
+- Admin
+![image](https://github.com/user-attachments/assets/b7932bdb-960a-4333-a977-69305ff5f8b7)
+- User
+![image](https://github.com/user-attachments/assets/b7fd5120-13d8-4bfa-ade5-507d2f719471)
+
+
+
+
