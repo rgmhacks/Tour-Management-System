@@ -10,7 +10,7 @@ const About = () => {
         <div className="w-max flex flex-col">
           <img src={aboutImg} className="w-40 h-40" alt="Image" />
           <h1 className="text-xl font-semibold text-center">
-            Rounak Maurya, Mit Mayekar, Divyanshu Makharia
+            Rounak Maurya
           </h1>
         </div>
         <ul className="list-disc w-max mx-5">
